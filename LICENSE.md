@@ -1,4 +1,4 @@
-# 
+# Exclusivo SQL Server Management Studio flujo de trabajo para Mac OS | Personalizado SQL Server Management Studio flujo de trabajo para PC Windows. Con soporte GraphQL y integración Git — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
